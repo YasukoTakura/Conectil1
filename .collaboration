@@ -125,12 +125,6 @@
   },
   {
     "ModuleName": "ページ2",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "FumikoMine",
-      "Email": "f-mine@connectill.jp"
-    },
-    "LockDateTime": "2021-06-09T14:52:48.6932421+09:00",
     "ModuleType": 1
   }
 ]
