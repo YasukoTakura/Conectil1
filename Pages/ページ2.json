@@ -16,8 +16,8 @@
         "CommandList": [
           {
             "$type": "Forguncy.Model.DownloadFileCommand, Forguncy",
-            "FileName": "サーバ発行時のエラーメッセージ",
-            "FileGuid": "479226bb438943d784f7553085ce5a3f",
+            "FileName": "サーバ発行時のエラーメッセージ (1)",
+            "FileGuid": "00ed073751ec41ef95701290a004620d",
             "FileExtension": ".jpg"
           }
         ],
