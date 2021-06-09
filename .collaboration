@@ -125,6 +125,16 @@
   },
   {
     "ModuleName": "ページ2",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "FumikoMine",
+      "Email": "f-mine@connectill.jp"
+    },
+    "LockDateTime": "2021-06-09T15:04:17.0606668+09:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\ページ2.json",
+      "UserTemplateFile\\サーバ発行時のエラーメッセージ479226bb438943d784f7553085ce5a3f.jpg"
+    ]
   }
 ]
