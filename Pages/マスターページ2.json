@@ -1,0 +1,97 @@
+{
+  "Rows": {
+    "Count": 45
+  },
+  "Cols": {
+    "Count": 60
+  },
+  "AttachInfos": {
+    "1,4": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, Forguncy",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.DownloadFileCommand, Forguncy",
+            "FileName": "スクリーンショット 2021-06-18 14.13.46",
+            "FileGuid": "69b26310f5f44fbe8a40362f207d3e80",
+            "FileExtension": ".png"
+          },
+          {
+            "$type": "Forguncy.Model.DownloadFileCommand, Forguncy",
+            "FileName": "4940",
+            "FileGuid": "dc6fe8b96bba448ea11091fbc0937aba",
+            "FileExtension": ".png"
+          }
+        ],
+        "TemplateKey": "_RS_Normal_Style2",
+        "UIPermissions": [
+          {
+            "Scope": 2,
+            "AllowRoles": [
+              "FGC_Anonymous"
+            ]
+          },
+          {
+            "Scope": 1,
+            "AllowRoles": [
+              "FGC_Anonymous"
+            ]
+          }
+        ]
+      }
+    },
+    "4,4": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, Forguncy",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.DownloadFileCommand, Forguncy",
+            "FileName": "スクリーンショット 2021-06-17 14.49.29",
+            "FileGuid": "c440b559214a4be3bdc0f1c8de087b0f",
+            "FileExtension": ".png"
+          }
+        ],
+        "TemplateKey": "_RS_Normal_Style2",
+        "UIPermissions": [
+          {
+            "Scope": 2,
+            "AllowRoles": [
+              "FGC_Anonymous"
+            ]
+          },
+          {
+            "Scope": 1,
+            "AllowRoles": [
+              "FGC_Anonymous"
+            ]
+          }
+        ]
+      }
+    },
+    "5,10": {
+      "IsPlaceHolderCell": true
+    }
+  },
+  "StyleDatas": {
+    "Types": {
+      "Strs": [
+        "Body"
+      ]
+    },
+    "SheetStyle": {
+      "FontFamily": 0
+    }
+  },
+  "Spans": [
+    "5,10,35,40",
+    "1,4,2,4",
+    "4,4,2,4"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.MasterPage, Forguncy"
+  },
+  "PrintInfo": {
+    "Margin": {},
+    "PaperSize": {}
+  }
+}
