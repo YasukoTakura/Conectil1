@@ -134,5 +134,15 @@
   {
     "ModuleName": "マスターページ1",
     "ModuleType": 3
+  },
+  {
+    "ModuleName": "マスターページ2",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\teruaki.oe",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2021-06-18T15:15:48.4305691+09:00",
+    "ModuleType": 1
   }
 ]
