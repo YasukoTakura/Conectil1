@@ -81,17 +81,7 @@
   },
   {
     "ModuleName": "ページ1",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "YasukoTakura",
-      "Email": "yasuko.takura@grapecity.com"
-    },
-    "LockDateTime": "2021-06-18T15:31:24.6564254+09:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\ページ1.json",
-      "UserTemplateFile\\v6ヘルプ14f8007767b344af923885be5da442bb.png"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "FGC_ユーザーマスターページ",
@@ -135,31 +125,11 @@
   },
   {
     "ModuleName": "ページ2",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "YasukoTakura",
-      "Email": "yasuko.takura@grapecity.com"
-    },
-    "LockDateTime": "2021-06-18T15:31:24.6564254+09:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\ページ2.json",
-      "UserTemplateFile\\サーバ発行時のエラーメッセージ (1)00ed073751ec41ef95701290a004620d.jpg"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "ページ3",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "YasukoTakura",
-      "Email": "yasuko.takura@grapecity.com"
-    },
-    "LockDateTime": "2021-06-18T15:31:24.6564254+09:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\ページ3.json",
-      "UserTemplateFile\\12394b9924a0d3bd04ebdb8757f27e91c3a25.png"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "マスターページ1",
@@ -171,12 +141,6 @@
   },
   {
     "ModuleName": "マスターページ3",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "YasukoTakura",
-      "Email": "yasuko.takura@grapecity.com"
-    },
-    "LockDateTime": "2021-06-18T15:33:55.327416+09:00",
     "ModuleType": 1
   }
 ]
