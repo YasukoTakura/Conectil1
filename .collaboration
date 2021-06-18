@@ -86,7 +86,7 @@
       "UserName": "YasukoTakura",
       "Email": "yasuko.takura@grapecity.com"
     },
-    "LockDateTime": "2021-06-18T15:30:56.685436+09:00",
+    "LockDateTime": "2021-06-18T15:31:24.6564254+09:00",
     "ModuleType": 1,
     "ToRemoveFiles": [
       "Pages\\ページ1.json",
@@ -135,11 +135,31 @@
   },
   {
     "ModuleName": "ページ2",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "YasukoTakura",
+      "Email": "yasuko.takura@grapecity.com"
+    },
+    "LockDateTime": "2021-06-18T15:31:24.6564254+09:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\ページ2.json",
+      "UserTemplateFile\\サーバ発行時のエラーメッセージ (1)00ed073751ec41ef95701290a004620d.jpg"
+    ]
   },
   {
     "ModuleName": "ページ3",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "YasukoTakura",
+      "Email": "yasuko.takura@grapecity.com"
+    },
+    "LockDateTime": "2021-06-18T15:31:24.6564254+09:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\ページ3.json",
+      "UserTemplateFile\\12394b9924a0d3bd04ebdb8757f27e91c3a25.png"
+    ]
   },
   {
     "ModuleName": "マスターページ1",
