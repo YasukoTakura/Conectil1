@@ -20,7 +20,7 @@
   },
   "PageInfo": {
     "$type": "Forguncy.Model.Pages.NormalPage, Forguncy",
-    "MasterPageName": "マスターページ3",
+    "MasterPageName": "マスターページ1",
     "AuthorizeInfo": {
       "VisitMode": 3
     },

@@ -81,16 +81,7 @@
   },
   {
     "ModuleName": "ページ1",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "YasukoTakura",
-      "Email": "yasuko.takura@grapecity.com"
-    },
-    "LockDateTime": "2021-06-18T15:47:30.4234241+09:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\ページ1.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "FGC_ユーザーマスターページ",
@@ -146,34 +137,6 @@
   },
   {
     "ModuleName": "マスターページ2",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "YasukoTakura",
-      "Email": "yasuko.takura@grapecity.com"
-    },
-    "LockDateTime": "2021-06-18T15:49:14.9624176+09:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\マスターページ2.json",
-      "UserTemplateFile\\5397_4_調整a275fa8e09714e3fa4e20509fdfe6243.png",
-      "UserTemplateFile\\4940dc6fe8b96bba448ea11091fbc0937aba.png",
-      "UserTemplateFile\\スクリーンショット 2021-06-17 14.49.29c440b559214a4be3bdc0f1c8de087b0f.png"
-    ]
-  },
-  {
-    "ModuleName": "マスターページ3",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "YasukoTakura",
-      "Email": "yasuko.takura@grapecity.com"
-    },
-    "LockDateTime": "2021-06-18T15:47:44.572416+09:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\マスターページ3.json",
-      "UserTemplateFile\\5397_4_調整a275fa8e09714e3fa4e20509fdfe6243.png",
-      "UserTemplateFile\\4940dc6fe8b96bba448ea11091fbc0937aba.png",
-      "UserTemplateFile\\IEd36d4999183c4f94b40e7e5598f0c50c.png"
-    ]
+    "ModuleType": 1
   }
 ]

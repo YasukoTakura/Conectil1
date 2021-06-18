@@ -12,12 +12,6 @@
         "CommandList": [
           {
             "$type": "Forguncy.Model.DownloadFileCommand, Forguncy",
-            "FileName": "5397_4_調整",
-            "FileGuid": "a275fa8e09714e3fa4e20509fdfe6243",
-            "FileExtension": ".png"
-          },
-          {
-            "$type": "Forguncy.Model.DownloadFileCommand, Forguncy",
             "FileName": "4940",
             "FileGuid": "dc6fe8b96bba448ea11091fbc0937aba",
             "FileExtension": ".png"
