@@ -137,6 +137,18 @@
   },
   {
     "ModuleName": "マスターページ2",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "YasukoTakura",
+      "Email": "yasuko.takura@grapecity.com"
+    },
+    "LockDateTime": "2021-06-18T15:27:21.1294255+09:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\マスターページ2.json",
+      "UserTemplateFile\\スクリーンショット 2021-06-18 14.13.4669b26310f5f44fbe8a40362f207d3e80.png",
+      "UserTemplateFile\\4940dc6fe8b96bba448ea11091fbc0937aba.png",
+      "UserTemplateFile\\スクリーンショット 2021-06-17 14.49.29c440b559214a4be3bdc0f1c8de087b0f.png"
+    ]
   }
 ]
