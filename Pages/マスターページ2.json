@@ -12,8 +12,8 @@
         "CommandList": [
           {
             "$type": "Forguncy.Model.DownloadFileCommand, Forguncy",
-            "FileName": "スクリーンショット 2021-06-18 14.13.46",
-            "FileGuid": "69b26310f5f44fbe8a40362f207d3e80",
+            "FileName": "5397_4_調整",
+            "FileGuid": "a275fa8e09714e3fa4e20509fdfe6243",
             "FileExtension": ".png"
           },
           {
