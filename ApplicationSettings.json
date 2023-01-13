@@ -1,0 +1,12 @@
+{
+  "IntegrateWithOtherApplication": {
+    "Password": "T$76AYqcS*j^"
+  },
+  "IsPageInContainerBackgroundHardCodeWhite": true,
+  "WebSitePort": 44874,
+  "UserServicePort": 64801,
+  "NotAllowModifyDatabaseByJsApi": false,
+  "NotAllowSendMailByJsApi": false,
+  "StartDateFiscalYear": 4,
+  "MaxRowCount": 10000000
+}

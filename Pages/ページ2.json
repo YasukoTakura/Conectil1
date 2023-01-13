@@ -12,31 +12,17 @@
   "AttachInfos": {
     "4,4": {
       "CellType": {
-        "$type": "Forguncy.ButtonCellType, Forguncy",
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
         "CommandList": [
           {
-            "$type": "Forguncy.Model.DownloadFileCommand, Forguncy",
+            "$type": "Forguncy.Model.DownloadFileCommand, ServerDesignerCommon",
             "FileName": "サーバ発行時のエラーメッセージ (1)",
             "FileGuid": "00ed073751ec41ef95701290a004620d",
             "FileExtension": ".jpg"
           }
         ],
         "Text": "download",
-        "TemplateKey": "_RS_Normal_Style2",
-        "UIPermissions": [
-          {
-            "Scope": 2,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          },
-          {
-            "Scope": 1,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          }
-        ]
+        "TemplateKey": "_RS_Normal_Style2"
       }
     }
   },
@@ -69,7 +55,7 @@
     "4,4,2,4"
   ],
   "PageInfo": {
-    "$type": "Forguncy.Model.Pages.NormalPage, Forguncy",
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
     "AuthorizeInfo": {
       "VisitMode": 3
     },
@@ -80,4 +66,4 @@
     "Margin": {},
     "PaperSize": {}
   }
-}
+}//9mytB4FJmXtWMSnJ0zDpKk/yVBtkXrPs8TSrIrEi+f+uc6+dsgw7AQniJse07GjE1uFR/pn4O/KvtszxJaM00pxR9iad1CcWtR833c+NohKhWDR1BtSv5yzvSk/xNq49tsgXC/jQHkLGfFgpzNBzTdQNyrpDMamiac2NWx9U+7wUUV9iNpwNIL4MtqaEYY/pCtSXEbWUR+7JRa/1d5aRhO8IuWPGFDsqmez68zUM4qjkexsAS8/xHLCef7n7NMq/Mfv87NKzFglKZWJVp0rwh1rc2nfjxcVnm+Z3Zk9C4ZHVLZHMOv0MMT4ihww8lhfSYpEBFV4e03gl21s9vIzapIwZTMSMKQzwiOXeULu/yDWSaRPfgrudFr8K4SuPNElYpOeFQJTHaJw/AaFrsnc2yoV03vtIzl89PhKMOTrwxWWBUdsV6X3HvGk01IyzLMNOPK+mct0qFbuI23YUB6l+7rWMK2aZxnab/of5GHE1v4nZ79EEj2A1QAj2JsOI8vNuvYWwXnZBvnnFeWgYvQpTqQkdysFpKlZ7aY8Y7walaYxZeC2JoeTbMMUWmkZ+LX50Vl4WxxgvRkfTtcSu7oJEgJJFiFdVLnyMKWNJGCjOvNnNz1zDspany7LpFp3kVM1n2HYKAWS9fKJ8VAiQKEYmCi6r4ZXrFJr6dErg5/ZirNdHDBL1hrj8iThMw+StcAahkPc/G1lGMIFtPtPzP5m8ryO3s7s9LiWWDPBhC8KzYuGXHyXtuL4oKKqHohQcxgPlWOcqtNovr7CGmXqNnk0MdUKiFsQ00XDNFS4/Xms4updq7PTwnYFSl3JRDH3Bz9qZUC2QRnACcZJgQqyPLhZMxcaDuiMApD3VRDnuCPt7ONGS2qWAaHhvTkhmwUjozTGxO8yPJYsUmT1Xz7Itbjjjbw==|920

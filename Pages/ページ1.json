@@ -19,7 +19,7 @@
     }
   },
   "PageInfo": {
-    "$type": "Forguncy.Model.Pages.NormalPage, Forguncy",
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
     "MasterPageName": "マスターページ1",
     "AuthorizeInfo": {
       "VisitMode": 3
@@ -31,4 +31,4 @@
     "Margin": {},
     "PaperSize": {}
   }
-}
+}//8fJ5uzjGxj6CijW6N1GCCk3lGu55vlpzQQUW/xICDGR/guh8wAKcDpd3uepFngAlKMf9ZRm2fx5mip0YgyedP2rJHmHsy5ItNGz47+ySvuninpgfVUD3t0htHNvUUwU1OlptR0AgFscxcDvmPnSVCy6G1Tk4CQjaTy+53Z+3D+IFnBMpPwrosfh91Y+8/MY864dxgiQ9ntcNvohOJWFShP7E5OVU2qVEd3/LX/EOl9DX8hQNViz+lgak+lL/yiampSevQrb1iNFM6huWLLTkVO6ycn/8aGImuWcqSexRtOMgqPl+RkjhQrlQXVN+9sa61EAMRbZzUxN5/xkxLHV4PetZhyY4U3Hsp6+UY20X2QxBIyTCEVhIVAgAXCfTCiI9b72JjRb7KDyUdKjC71qnbd9Ghcl+oYcat5rti0IvPZkI0mXR7zb/MuJZAl2RQ0BMS5qmbPUK+J+Px6E8wiUuMGYC+DvZD2Q6f77Hhd48m8lEElf5jbb5mpUY2XDbLpmpiJzp8KXjRwE255+ejI9XJ7MBTWj1wyoUXkip0seRv30NnhA8GZuNru9qai1h9KvdDhncha5yHanLfkkrmVDsOhKP0j/y93SoiFkNVrxLHGi5kgpLBX+XAXLGBRZeTAG0MpBHq6KRdk52ax98DVAAjPY/AzEfO+euHFaCGm/g794McYD4iyu5mFxEliCVDYTAmdr5JQZXrINxbpSmDDEdwig92W5OtIG6BripCGC20VgGnJTnyhLucRfKPdma3JjMwYqK1mDoS6Yv2XuvTOdXYdTFvINrgWgX/wvXFURMd73EslUH06B+LeS68qREU40hlMtNR07aELe20672p3A+tROk/HXEcqyKyAKruROCS7WbDr3SeTcobOH9c1ueYDKtxMt8iFG9V1peBHedfzqpXA==|920
